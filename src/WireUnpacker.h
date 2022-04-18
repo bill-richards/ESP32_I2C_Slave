@@ -33,7 +33,7 @@
 
 #include <Arduino.h>
 
-#define UNPACKER_BUFFER_LENGTH 128
+#define UNPACKER_BUFFER_LENGTH 256
 
 // #define UNPACKER_DEBUG
 

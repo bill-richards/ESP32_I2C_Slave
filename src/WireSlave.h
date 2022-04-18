@@ -30,7 +30,7 @@
 #include <WirePacker.h>
 #include <WireUnpacker.h>
 
-#define I2C_BUFFER_LENGTH 128
+#define I2C_BUFFER_LENGTH 256
 
 class TwoWireSlave : public Stream
 {

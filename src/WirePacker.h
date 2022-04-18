@@ -31,7 +31,7 @@
 #include <Arduino.h>
 #include <Print.h>
 
-#define PACKER_BUFFER_LENGTH 128
+#define PACKER_BUFFER_LENGTH 256
 
 // #define PACKER_DEBUG
 
